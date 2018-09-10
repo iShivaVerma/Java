@@ -1,0 +1,3 @@
+items[2]=new Item(102, "Noodles", 3);
+items[3]=new Item(103, "Veg Role", 1);
+items[4]=new Item(104, "Macaroni", 2);
